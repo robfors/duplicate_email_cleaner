@@ -141,6 +141,6 @@ class DuplicateEmailRemover
 end
   
 
-duplicate_email_remover = DuplicateEmailRemover.new('robfors.com', 993, true, 'rob', '****')
+duplicate_email_remover = DuplicateEmailRemover.new('robfors.com', 993, true, 'rob')
 duplicate_email_remover.run
 
