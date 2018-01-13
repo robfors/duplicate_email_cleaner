@@ -1,2 +1,2 @@
-# duplicate_email_cleaner
-Simple script to clean duplicate emails in an IMAP server.
+# Duplicate Email Cleaner
+Use this script to clean duplicate emails from an IMAP server using only your IMAP login credentials.
